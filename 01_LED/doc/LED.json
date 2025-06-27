@@ -1,0 +1,16 @@
+{
+    "signal": [
+        {
+            "name": "按键",
+            "wave": "p........"
+        },
+        {
+            "name": "LED",
+            "wave": "n........",
+            "period": 1
+        }
+    ],
+    "config": {
+        "hscale": 1
+    }
+}

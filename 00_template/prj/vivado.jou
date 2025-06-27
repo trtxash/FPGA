@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jun 27 17:57:30 2025
+# Process ID: 5652
+# Current directory: D:/Data/Codes/VS-Code/Practice/FPGA/00_template/prj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23820 D:\Data\Codes\VS-Code\Practice\FPGA\00_template\prj\template.xpr
+# Log file: D:/Data/Codes/VS-Code/Practice/FPGA/00_template/prj/vivado.log
+# Journal file: D:/Data/Codes/VS-Code/Practice/FPGA/00_template/prj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Data/Codes/VS-Code/Practice/FPGA/00_template/prj/template.xpr

@@ -1,0 +1,51 @@
+{
+	"signal": [
+		{
+			"name": "clk",
+			"wave": "p.....|..."
+		},
+		{
+			"name": "clk2",
+			"wave": "p.....|...",
+			"period": 1
+		},
+		{
+			"name": "clk3",
+			"wave": "p.....|...",
+			"phase": 0.5
+		},
+		{
+			"name": "Data",
+			"wave": "x.345x|=.z",
+			"data": [
+				"head",
+				"body",
+				"tail",
+				"data"
+			]
+		},
+		[
+			{
+				"name": "Request",
+				"wave": "0.1..0|1.0"
+			},
+			{},
+			{
+				"name": "Acknowledge",
+				"wave": "1.....|01."
+			}
+		]
+	],
+	"config": {
+		"hscale": 2
+	},
+	"head": {
+		"text": "WaveDrom example",
+		"tick": 0,
+		"every": 1
+	},
+	"foot": {
+		"text": "Figure 100",
+		"tock": 1
+	}
+}
